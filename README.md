@@ -1,15 +1,16 @@
-![Mann - Software engineer building full-stack systems, applied AI tools, and product workflows](./assets/github-banner.svg)
+![Mann - Backend gravity. Full-stack range.](./assets/github-banner.svg)
 
 <p align="center">
   <a href="https://mannrp.dev">
-    <img src="https://img.shields.io/badge/Portfolio-mannrp.dev-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio: mannrp.dev" />
+    <img src="./assets/portfolio-button.svg" alt="Portfolio: mannrp.dev" height="42" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/mannrp">
-    <img src="https://img.shields.io/badge/LinkedIn-mannrp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: mannrp" />
+    <img src="./assets/linkedin-button.svg" alt="LinkedIn: mannrp" height="42" />
   </a>
 </p>
 
-Software engineer building full-stack systems, applied AI tools, and product-focused workflows.
+Backend gravity. Full-stack range.
 
 I like turning messy workflows into clear data models, useful APIs, and interfaces that people can actually use.
 
