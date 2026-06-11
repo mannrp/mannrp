@@ -1,12 +1,12 @@
-![Mann - Full-Stack Software Engineer | Backend-Leaning](./assets/github-banner.svg)
+![Mann - Full-Stack Software Engineer | Backend-Leaning](./assets/github-banner-v2.svg)
 
 <p align="center">
   <a href="https://mannrp.dev">
-    <img src="./assets/portfolio-button.svg" alt="Portfolio: mannrp.dev" height="42" />
+    <img src="./assets/portfolio-button-v2.svg" alt="Portfolio: mannrp.dev" height="42" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/mannrp">
-    <img src="./assets/linkedin-button.svg" alt="LinkedIn: mannrp" height="42" />
+    <img src="./assets/linkedin-button-v2.svg" alt="LinkedIn: mannrp" height="42" />
   </a>
 </p>
 
