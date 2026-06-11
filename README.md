@@ -1,4 +1,4 @@
-![Mann - Backend gravity. Full-stack range.](./assets/github-banner.svg)
+![Mann - Full-Stack Software Engineer | Backend-Leaning](./assets/github-banner.svg)
 
 <p align="center">
   <a href="https://mannrp.dev">
@@ -10,15 +10,13 @@
   </a>
 </p>
 
-Backend gravity. Full-stack range.
-
-I like turning messy workflows into clear data models, useful APIs, and interfaces that people can actually use.
+Full-Stack Software Engineer | Backend-Leaning
 
 ## Currently Working On
 
-- Building Quorum into a full capstone/project matching workflow for students, teams, project owners, and admins.
-- Exploring voice-assisted and AI-assisted interfaces where model output is staged, inspectable, and reversible.
-- Sharpening backend systems, data modeling, and product UX across full-stack projects.
+- Converting SayBon into a React Native, offline-first French learning app.
+- Refactoring existing repos with cleaner structure, stronger tests, and sharper READMEs.
+- Building Quorum into a fuller capstone/project matching workflow for students, teams, project owners, and admins.
 
 ## Selected Work
 
