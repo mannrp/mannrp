@@ -10,8 +10,6 @@
   </a>
 </p>
 
-Full-Stack Software Engineer | Backend-Leaning
-
 ## Currently Working On
 
 - Converting SayBon into a React Native, offline-first French learning app.
