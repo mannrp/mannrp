@@ -10,11 +10,6 @@
   </a>
 </p>
 
-## Currently Working On
-
-- Converting SayBon into a React Native, offline-first French learning app.
-- Refactoring existing repos with cleaner structure, stronger tests, and sharper READMEs.
-- Building Quorum into a fuller capstone/project matching workflow for students, teams, project owners, and admins.
 
 ## Selected Work
 
@@ -106,6 +101,12 @@
     </td>
   </tr>
 </table>
+
+## Currently Working On
+
+- Converting SayBon into a React Native, offline-first French learning app.
+- Refactoring existing repos with cleaner structure, stronger tests, and sharper READMEs.
+- Building Quorum into a fuller capstone/project matching workflow for students, teams, project owners, and admins.
 
 ## Links
 
